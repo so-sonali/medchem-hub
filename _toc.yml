@@ -2,4 +2,11 @@ format: jb-book
 root: index
 chapters:
   - file: aspirin/learn
-
+  - file: ibuprofen/learn
+  - file: thalidomide/learn
+  - file: acetaminophen/learn
+  - file: benadryl/learn
+  - file: claritin/learn
+  - file: tums/learn
+  - file: penicillin/learn
+  - file: imatinib/learn
