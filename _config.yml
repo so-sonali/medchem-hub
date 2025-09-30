@@ -4,3 +4,10 @@ author: Silly_Goose
 only_build_toc_files: true
 execute:
   execute_notebooks: "off"
+
+
+sphinx:
+  extra_extensions:
+    - sphinx_design     
+launch_buttons:
+  thebe: false         
