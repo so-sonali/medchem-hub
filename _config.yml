@@ -1,0 +1,6 @@
+# Jupyter Book config
+title: Everyday Pharmacy
+author: Silly_Goose
+only_build_toc_files: true
+execute:
+  execute_notebooks: "off"
