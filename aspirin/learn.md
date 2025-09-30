@@ -1,7 +1,11 @@
-# Aspirin
+# Aspirin — The Accidental Wonder Drug
 
-- **Discovery**: Willow bark → salicylic acid → acetylation → aspirin.  
-- **Key concept**: COX inhibition.  
-- **Lesson**: Why acetylation improved tolerability.  
+**Discovery Story**  
+From willow bark (salicin) → salicylic acid → acetylation → aspirin (Felix Hoffmann, 1897).
 
-This is the first *drug story* in Everyday Pharmacy.
+**Medicinal Chemistry Principle**  
+- Functional group modification (acetylation reduces gastric irritation).  
+- Irreversible COX inhibition explains both pain relief and bleeding risk.  
+
+**Interactive Idea (future)**  
+Drag acetyl group onto salicylic acid → see toxicity ↓ and tolerability ↑.
